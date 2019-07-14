@@ -1,3 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 credentials
 /static/.sass-cache/
+/static/vendor/
